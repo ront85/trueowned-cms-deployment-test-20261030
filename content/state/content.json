@@ -9,5 +9,17 @@
   "editableText": {
     "hero/slides/0/title": "GitHub standalone editor test",
     "page:home|hero/slides/0/title": "Scoped CMS deployment verified"
+  },
+  "home": {
+    "title": "Home",
+    "slug": "home",
+    "sections": [
+      {
+        "id": "desktop-test",
+        "type": "custom",
+        "code": "export default function SyntheticPage(){return <section><h2 data-editable=\"headline\">Desktop deployment ready</h2></section>}",
+        "props": {}
+      }
+    ]
   }
 }
