@@ -17,9 +17,10 @@
       {
         "id": "desktop-test",
         "type": "custom",
-        "code": "export default function SyntheticPage(){return <section><h2 data-editable=\"headline\">Desktop deployment ready</h2></section>}",
+        "code": "export default function SyntheticPage(){return <section><h2 data-editable=\"headline\">Desktop to GitHub Pages verified</h2></section>}",
         "props": {}
       }
-    ]
+    ],
+    "editedContent": {}
   }
 }
