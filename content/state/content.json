@@ -9,8 +9,5 @@
   "editableText": {
     "hero/slides/0/title": "GitHub standalone editor test",
     "page:home|hero/slides/0/title": "Scoped CMS deployment verified"
-  },
-  "formsConfig": {
-    "endpoint": "http://127.0.0.1:5190/submit"
   }
 }
