@@ -1,1 +1,12 @@
-{"title":"Updated standalone deployment test"}
+{
+  "hero": {
+    "slides": [
+      {
+        "subtitle": "Standalone test heading"
+      }
+    ]
+  },
+  "editableText": {
+    "hero/slides/0/title": "GitHub standalone editor test"
+  }
+}
